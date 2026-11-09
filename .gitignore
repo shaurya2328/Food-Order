@@ -1,32 +1,8 @@
-
 # Java compiled files
 *.class
 
 # Build folders
 bin/
 out/
-target/
 build/
-
-# VS Code settings
-.vscode/
-
-# IntelliJ IDEA
-.idea/
-*.iml
-
-# Eclipse
-.classpath
-.project
-.settings/
-
-# Logs
-*.log
-
-# Operating system files
-.DS_Store
-Thumbs.db
-
-# Temporary files
-*.tmp
-*.bak
+target/
